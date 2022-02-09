@@ -1,0 +1,11 @@
+P:\Disk Cleanup 2\Disk Cleanup 2\bin\Debug\Disk Cleanup 2.exe.config
+P:\Disk Cleanup 2\Disk Cleanup 2\bin\Debug\Disk Cleanup 2.exe
+P:\Disk Cleanup 2\Disk Cleanup 2\bin\Debug\Disk Cleanup 2.pdb
+P:\Disk Cleanup 2\Disk Cleanup 2\obj\Debug\Disk Cleanup 2.csproj.AssemblyReference.cache
+P:\Disk Cleanup 2\Disk Cleanup 2\obj\Debug\Disk Cleanup 2.csproj.SuggestedBindingRedirects.cache
+P:\Disk Cleanup 2\Disk Cleanup 2\obj\Debug\Disk_Cleanup_2.Properties.Resources.resources
+P:\Disk Cleanup 2\Disk Cleanup 2\obj\Debug\Disk Cleanup 2.csproj.GenerateResource.cache
+P:\Disk Cleanup 2\Disk Cleanup 2\obj\Debug\Disk Cleanup 2.csproj.CoreCompileInputs.cache
+P:\Disk Cleanup 2\Disk Cleanup 2\obj\Debug\Disk Cleanup 2.exe
+P:\Disk Cleanup 2\Disk Cleanup 2\obj\Debug\Disk Cleanup 2.pdb
+P:\Disk Cleanup 2\Disk Cleanup 2\obj\Debug\Disk_Cleanup_2.Form1.resources
